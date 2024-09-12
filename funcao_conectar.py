@@ -3,7 +3,7 @@
 import pymssql
 
 def conectar_sql():
-    server = 'tms-drp-oficial.database.windows.net'
+    server = ''
     database = ''
     user = ''
     password = ''
